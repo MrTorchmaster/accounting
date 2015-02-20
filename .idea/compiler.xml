@@ -24,6 +24,7 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="accounting-api" />
+        <module name="accounting-fx" />
         <module name="accounting-main" />
       </profile>
     </annotationProcessing>

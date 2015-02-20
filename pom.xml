@@ -11,5 +11,6 @@
     <modules>
         <module>accounting-api</module>
         <module>accounting-main</module>
+        <module>accounting-fx</module>
     </modules>
 </project>

@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/accounting.iml" filepath="$PROJECT_DIR$/accounting.iml" />
       <module fileurl="file://$PROJECT_DIR$/accounting-api/accounting-api.iml" filepath="$PROJECT_DIR$/accounting-api/accounting-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/accounting-fx/accounting-fx.iml" filepath="$PROJECT_DIR$/accounting-fx/accounting-fx.iml" />
       <module fileurl="file://$PROJECT_DIR$/accounting-main/accounting-main.iml" filepath="$PROJECT_DIR$/accounting-main/accounting-main.iml" />
     </modules>
   </component>
